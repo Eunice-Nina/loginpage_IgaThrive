@@ -76,6 +76,12 @@ ol li{
     font-size: 12px;
     color: grey;
 }
-.itila{
-    font-style: italic;
+.mine{
+    width: fit-content;
+    margin: auto;
+    display: block;
+    border-radius: 100px;
+    background: white;
+    color: rgb(48, 101, 193);
+    margin-top: 40px;
 }
