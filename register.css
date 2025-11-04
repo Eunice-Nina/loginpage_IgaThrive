@@ -13,6 +13,7 @@ body{
     overflow: hidden;
     border-radius: 10px;
     background: rgb(48, 101, 193);
+    flex-direction: row-reverse;
 }
 .left{
     width: 100%;
@@ -77,12 +78,4 @@ ol li{
 }
 .itila{
     font-style: italic;
-}
-.mine{
-    width: fit-content;
-    margin: auto;
-    display: block;
-    border-radius: 100px;
-    background: white;
-    color: rgb(48, 101, 193);
 }
